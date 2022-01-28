@@ -1,3 +1,5 @@
 this is a test file 
 for testing the git status 
 in git 
+these are new changes in the file 
+so that we can test the git status 
